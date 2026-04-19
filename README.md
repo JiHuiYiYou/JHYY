@@ -34,7 +34,7 @@ To me, code is just another way to tell stories.
 ---
 
 ## 🛠️ Projects I Might Build Someday
-> 15901598712@163.com
+
 - 🎭 **Drama-to-Code Simulator** (turning scripts into structured data)
 - 🧠 **Friendship Graph Visualizer** (because networks matter)
 - 📈 **Decision Timeline Tracker** (for long-term choices)
@@ -44,10 +44,11 @@ To me, code is just another way to tell stories.
 
 ## 📫 How to Reach Me
 
+> 15901598712@163.com
 - GitHub Issues (for project-related stuff)
 - Email (if you want something serious)
 - Carrier pigeon (just kidding… unless?)
 
 ---
 
-*P.S. If you’ve read this far, you’re probably curious — and curiosity is always welcome.* 👋
+> *P.S. If you’ve read this far, you’re probably curious — and curiosity is always welcome.* 👋
